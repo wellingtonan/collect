@@ -18,7 +18,6 @@ var Lanceiro = 0;
 var Espadachim = 1;
 var Barbaro = 2;
 var Arqueiro = 3;
-var Cavalaria_leve= 4;
 var Arqueiro_a_cavalo = 5;
 var Cavalaria_pesada = 6;
 
