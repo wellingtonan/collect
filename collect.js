@@ -16,10 +16,7 @@ var Porcentual_de_Coleta  = [4200,1700,870,580] // 1:00h
 
 var Lanceiro = 0;
 var Espadachim = 1;
-var Barbaro = 2;
-var Arqueiro = 3;
-var Arqueiro_a_cavalo = 5;
-var Cavalaria_pesada = 6;
+
 
 var UNIT_INEX = 0;
 var Final = 1;
