@@ -26,11 +26,6 @@ var ENTRADA = 4;
 var Unidades_Coletando = [
     [Lanceiro, "a.units-entry-all[data-unit='spear']",true,25,"input.unitsInput[name='spear']"],
     [Espadachim, "a.units-entry-all[data-unit='sword']",true,15,"input.unitsInput[name='sword']"],
-    [Barbaro, "a.units-entry-all[data-unit='axe']",true,10,"input.unitsInput[name='axe']"],
-    [Arqueiro, "a.units-entry-all[data-unit='archer']",true,10,"input.unitsInput[name='archer']"],
-    [Cavalaria_leve, "a.units-entry-all[data-unit='light']",true,80,"input.unitsInput[name='light']"],
-    [Arqueiro_a_cavalo , "a.units-entry-all[data-unit='marcher']",true,50,"input.unitsInput[name='marcher']"],
-    [Cavalaria_pesada, "a.units-entry-all[data-unit='heavy']",true,50,"input.unitsInput[name='heavy']"],
 ];
 
 
